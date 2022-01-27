@@ -75,11 +75,14 @@ It has been my hope to combine my love for design and art with technology in a c
       <img align="center" title="JQuery" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
     </td>
-    <td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+     <td>
       <img align="center" title="JSON" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
     </td>
-     <td>
+    <td>
       <img align="center" title="Express" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
     </td>
@@ -91,9 +94,6 @@ It has been my hope to combine my love for design and art with technology in a c
       <img align="center" title="npm" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
     </td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
     <td>
       <img align="center" title="SQL" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -101,7 +101,6 @@ It has been my hope to combine my love for design and art with technology in a c
     <td>
       <img align="center" title="MySQL" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    </td>
         <td>
       <img align="center" title="MongoDB" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -114,11 +113,10 @@ It has been my hope to combine my love for design and art with technology in a c
       <img align="center" title="WordPress" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
     </td>
-        <td>
-      <img align="center" title="Perl" width = "50px" 
-           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />
-    </td>
-    <td>
+   </tr>
+   <!-- Row 3 -->
+  <tr>
+     <td>
       <img align="center" title="HTML" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     </td>
@@ -146,11 +144,40 @@ It has been my hope to combine my love for design and art with technology in a c
       <img align="center" title="Heroku" width = "50px" 
            src="https://avatars.githubusercontent.com/u/8085?s=200&v=4" />
     </td>
+    <td>
+      <img align="center" title="Perl" width = "50px" 
+           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" />
+    </td>
   </tr>
 </table>
 
 
-#### Currently studying and learning more about...
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+## Currently studying and learning more about...
+
 
 <table align="left"> 
   <!-- Row 1 -->
