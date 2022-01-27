@@ -176,6 +176,9 @@ It has been my hope to combine my love for design and art with technology in a c
 <br />
 
 
+<br />
+
+
 ## Currently studying and learning more about...
 
 
