@@ -141,8 +141,8 @@ It has been my hope to combine my love for design and art with technology in a c
            src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png" />
     </td>
      <td>
-      <img align="center" title="Heroku" width = "50px" 
-           src="https://avatars.githubusercontent.com/u/8085?s=200&v=4" />
+      <img align="center" title="Tailwind" width = "50px" 
+           src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-light.svg" />
     </td>
     <td>
       <img align="center" title="Perl" width = "50px" 
